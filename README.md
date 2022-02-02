@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![KyubinHwang's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyubinHwang&show_icons=true&theme=cobalt)[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyubin0209)](https://solved.ac/kyubin0209/) 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyubin0209)](https://solved.ac/kyubin0209/) 
 
 
 
