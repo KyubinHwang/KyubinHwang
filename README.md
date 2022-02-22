@@ -4,9 +4,7 @@
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   </div>
 
-
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyubin0209)](https://solved.ac/kyubin0209/) ![KyubinHwang's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyubinHwang&theme=flag-india&show_icons=true)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyubin0209)](https://solved.ac/kyubin0209/)![KyubinHwang's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyubinHwang&theme=flag-india&show_icons=true)
 </p>
 
 <!--
