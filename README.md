@@ -1,5 +1,7 @@
 ### Kyubin 👋
 
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyubin0209)](https://solved.ac/kyubin0209/) 
 
 
